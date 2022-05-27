@@ -1,1 +1,5 @@
 streamlit
+typing_extensions
+datetime
+requests
+pandas
